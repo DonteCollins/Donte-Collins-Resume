@@ -1,0 +1,29 @@
+.myimage {
+    width: 500px;
+    border: inset;
+}
+body {
+    text-align: center;
+    background-image: url("https://www.dcdowntownhotel.com/resourcefiles/mainimages/white-house-at-washington-dc-top.jpg");
+    background-repeat: no-repeat;
+    background-size: 2500px;
+}
+h1 {
+    text-align: center;
+    font-style: italic;
+    font-family: 'Crimson Text', serif;
+}
+p {
+    font-family: 'Inconsolata', monospace;
+    font-size: 20px;
+}
+.finalp {
+    font-family: 'Kodchasan', sans-serif;
+    font-size: 15px;
+    text-align: right;
+}
+.frontdiv {
+    background: linear-gradient(white, yellow);
+    border: 5px outset;
+    z-index: 1;
+}
